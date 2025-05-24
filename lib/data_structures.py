@@ -14,6 +14,11 @@ spicy_foods = [
         "cuisine": "Sichuan",
         "heat_level": 6,
     },
+    
+        "name": "Griot",
+        "cuisine": "Haitian",
+        "heat_level": 10,
+    },
 ]
 
 def get_names(spicy_foods):
